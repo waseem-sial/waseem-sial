@@ -1,3 +1,4 @@
+![logo](https://github.com/waseem-sial/waseem-sial/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Waseem</h1>
 <h3 align="center">A passionate C++ developer and Machine learning engineer from Pakistan</h3>
 
