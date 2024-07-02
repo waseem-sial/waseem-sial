@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Computer Science Student and works on **machine learning projects**
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Search Engine Optimization(SEO)**
 
 - 📫 How to reach me **sial.machinelearning@gmail.com**
 
