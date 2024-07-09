@@ -10,11 +10,10 @@
 
 - 🌱 I’m currently learning **Search Engine Optimization(SEO)**
 
-- 🤝 Successfully obtained an internship with CodeAlpha: **[Internship Offer Letter](CodeAlphaMLletter.pdf)**
+- 🤝 Successfully obtained an internship with **CodeAlpha**
 
 - 📫 How to reach me **sial.machinelearning@gmail.com**
 
-- 📄 Here is my Resume: **[Resume](Waseem-Resume.pdf)**
 
 - ⚡ Fun fact **I create videos on tiktok**
 
