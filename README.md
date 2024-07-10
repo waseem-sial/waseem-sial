@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waseem</h1>
 <h3 align="center">A passionate C++ developer and Machine learning engineer from Pakistan</h3>
 <img align="right" alt="coding" widht="400" src="https://qph.cf2.quoracdn.net/main-qimg-270b7e36080565f95736692774b60b24">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waseem-sial&label=Profile%20views&color=0e75b6&style=flat" alt="waseem-sial" /> </p>
 
 
@@ -12,8 +11,9 @@
 
 - 🤝 Successfully obtained an internship with **CodeAlpha**
 
-- 📫 How to reach me **sial.machinelearning@gmail.com**
+- 📄 I regularly write and publish articles on [Sial News Hub](https://sialnewshub.blogspot.com)
 
+- 📫 How to reach me **sial.machinelearning@gmail.com**
 
 - ⚡ Fun fact **I create videos on tiktok**
 
