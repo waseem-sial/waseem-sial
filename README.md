@@ -11,7 +11,7 @@
 
 - 🤝 Successfully obtained an internship with **CodeAlpha**
 
-- 📄 I regularly write and publish articles on [Sial News Hub](https://sialnewshub.blogspot.com)
+- 📄 I regularly write and publish articles on [Sial News Hub](https://www.sialnewshub.online)
 
 - 📫 How to reach me **sial.machinelearning@gmail.com**
 
