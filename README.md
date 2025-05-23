@@ -13,7 +13,7 @@
 
 - 📄 I regularly write and publish articles on [Sial News Hub](https://www.sialnewshub.online)
 
-- 📫 How to reach me **sial.machinelearning@gmail.com**
+- 📫 How to reach me **mohammadwaseemcs@gmail.com**
 
 - ⚡ Fun fact **I create videos on tiktok**
 
